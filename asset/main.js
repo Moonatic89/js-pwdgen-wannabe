@@ -15,3 +15,4 @@ const psw_string = user_firstName + user_lastName + user_favColor + psw_number;
 // console.log(psw_string);
 
 
+document.getElementById("psw").innerHTML = psw_string;
